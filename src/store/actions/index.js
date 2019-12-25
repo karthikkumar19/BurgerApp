@@ -13,5 +13,6 @@ fetchOrder
 export {
     auth,
     logout,
-    setAuthRedirectPath
+    setAuthRedirectPath,
+    authCheckState
 } from './auth';
