@@ -11,7 +11,6 @@ class Modal extends Component {
     }
 
     UNSAFE_componentWillUpdate () {
-        console.log('[Modal] WillUpdate');
     }
 
     render () {
