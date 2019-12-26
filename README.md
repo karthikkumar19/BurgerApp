@@ -1,7 +1,7 @@
-*********    BURGER APP 🍔 ********
+➤➤➤➤➤➤➤➤  **BURGER APP** 🍔 ➤➤➤➤➤➤➤➤ 
   Developed on React . 🙂
 
-  I build this application by learing React Course on Udemy. 💡
+  I build this application by learning React Course on Udemy. 💡
 
   This Burger Application is linked with Firebase DB and hosted .
 
@@ -16,7 +16,7 @@
 
             * Authenticated users only able to order burger by this App. ✔️
 
-            * Anyone can able to Signup with this Appliaction (Open for Everyone). ✔️
+            * Anyone can able to Signup with this Appliaction (Open to Everyone). ✔️
 
 Future updates is under process. i will update soon.. 🔜
 
