@@ -7,6 +7,7 @@ import burgerBuilderReducers from './store/reducers/burgerBuilder';
 import orderReducer from './store/reducers/order';
 import authReducer from './store/reducers/auth';
 import thunk from 'redux-thunk';
+import {Helmet} from "react-helmet";
 
 import './index.css';
 import App from './App';
@@ -25,7 +26,11 @@ const store = createStore(rootReducer, composeEnhancers(
 ));
 
 const app = (
+  
     <Provider store={store}>
+          <Helmet>
+        <title>Burger App</title>
+    </Helmet>
  <BrowserRouter>
         <App />
     </BrowserRouter>
