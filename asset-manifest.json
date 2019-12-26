@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/karthikkumar19/BurgerApp.git/static/css/main.f7f587a2.chunk.css",
+    "main.js": "/karthikkumar19/BurgerApp.git/static/js/main.a7d979c4.chunk.js",
+    "main.js.map": "/karthikkumar19/BurgerApp.git/static/js/main.a7d979c4.chunk.js.map",
+    "runtime-main.js": "/karthikkumar19/BurgerApp.git/static/js/runtime-main.79ad8e8a.js",
+    "runtime-main.js.map": "/karthikkumar19/BurgerApp.git/static/js/runtime-main.79ad8e8a.js.map",
+    "static/js/2.fa45dc96.chunk.js": "/karthikkumar19/BurgerApp.git/static/js/2.fa45dc96.chunk.js",
+    "static/js/2.fa45dc96.chunk.js.map": "/karthikkumar19/BurgerApp.git/static/js/2.fa45dc96.chunk.js.map",
+    "static/css/3.69e35093.chunk.css": "/karthikkumar19/BurgerApp.git/static/css/3.69e35093.chunk.css",
+    "static/js/3.197ab16e.chunk.js": "/karthikkumar19/BurgerApp.git/static/js/3.197ab16e.chunk.js",
+    "static/js/3.197ab16e.chunk.js.map": "/karthikkumar19/BurgerApp.git/static/js/3.197ab16e.chunk.js.map",
+    "static/css/4.157dfab5.chunk.css": "/karthikkumar19/BurgerApp.git/static/css/4.157dfab5.chunk.css",
+    "static/js/4.c84e7af4.chunk.js": "/karthikkumar19/BurgerApp.git/static/js/4.c84e7af4.chunk.js",
+    "static/js/4.c84e7af4.chunk.js.map": "/karthikkumar19/BurgerApp.git/static/js/4.c84e7af4.chunk.js.map",
+    "static/css/5.0c143387.chunk.css": "/karthikkumar19/BurgerApp.git/static/css/5.0c143387.chunk.css",
+    "static/js/5.a3021586.chunk.js": "/karthikkumar19/BurgerApp.git/static/js/5.a3021586.chunk.js",
+    "static/js/5.a3021586.chunk.js.map": "/karthikkumar19/BurgerApp.git/static/js/5.a3021586.chunk.js.map",
+    "index.html": "/karthikkumar19/BurgerApp.git/index.html",
+    "precache-manifest.63d96694244c23f3ad8cc293a97fc688.js": "/karthikkumar19/BurgerApp.git/precache-manifest.63d96694244c23f3ad8cc293a97fc688.js",
+    "service-worker.js": "/karthikkumar19/BurgerApp.git/service-worker.js",
+    "static/css/3.69e35093.chunk.css.map": "/karthikkumar19/BurgerApp.git/static/css/3.69e35093.chunk.css.map",
+    "static/css/4.157dfab5.chunk.css.map": "/karthikkumar19/BurgerApp.git/static/css/4.157dfab5.chunk.css.map",
+    "static/css/5.0c143387.chunk.css.map": "/karthikkumar19/BurgerApp.git/static/css/5.0c143387.chunk.css.map",
+    "static/css/main.f7f587a2.chunk.css.map": "/karthikkumar19/BurgerApp.git/static/css/main.f7f587a2.chunk.css.map",
+    "static/js/2.fa45dc96.chunk.js.LICENSE": "/karthikkumar19/BurgerApp.git/static/js/2.fa45dc96.chunk.js.LICENSE",
+    "static/media/burger-logo.png": "/karthikkumar19/BurgerApp.git/static/media/burger-logo.b8503d26.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79ad8e8a.js",
+    "static/js/2.fa45dc96.chunk.js",
+    "static/css/main.f7f587a2.chunk.css",
+    "static/js/main.a7d979c4.chunk.js"
+  ]
+}
